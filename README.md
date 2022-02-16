@@ -1,4 +1,7 @@
+
+
 # Django Phishing Predictor
+
  
 This is a Phishing prediction web application created using Random Forest Classifier model and it has been made into a web application using django framework which has been deployed on  Heroku . 
 
